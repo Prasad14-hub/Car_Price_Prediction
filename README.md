@@ -12,6 +12,7 @@
 <h3>Dataset Prview</h3><a id="3"></a>
 A preview of top ten rows of the Car Dekho dataset.
 
+
 | | Car_Name | Year | Selling_Price | Present_Price | Kms_Driven | Fuel_Type | Seller_Type | Transmission | Owner |
 |-| -------- | ---- | ------------- | ------------- | ---------- | --------- | ----------- | ------------ | ----- |
 |0| Maruti Alto Std | 2012 | 1.2 Lakh* | null | 120000 | Petrol | Individual | Manual | First Owner |
