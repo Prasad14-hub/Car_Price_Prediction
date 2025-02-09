@@ -56,15 +56,13 @@ The columns in the given dataset are as follows:
 │
 ├─ app.py
 │
-├─ demo.gif
+├─ demo_gif.gif
 │
-├─ rf_regression_model.pkl
+├─ rf_Model.pkl
 │  
-├─ Car Dekho Price Prediction.ipynb
-│
-├─ LICENSE
+├─ Car_Price_Prediction.ipynb
 │  
-├─ car data.csv
+├─ car_data.csv
 │
 ├─ Procfile
 │
@@ -78,13 +76,13 @@ The columns in the given dataset are as follows:
 
 ```app.py``` : Front and back end portion of the web application
 
-```Car Dekho Price Prediction.ipynb``` : conatains ipynb file (Jypiter Notebook file)
+```Car_Price_Prediction.ipynb``` : conatains ipynb file (Jypiter Notebook file)
 
 ```rf_Model.pkl```  : contains model for prediction
 
 ```requirements.txt``` : required libraries 
 
-```car data.csv```  : conatins raw data as csv file
+```car_data.csv```  : conatins raw data as csv file
 
 <h3>Installation</h3><a id=""></a>
 
