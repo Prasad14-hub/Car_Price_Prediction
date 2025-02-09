@@ -5,7 +5,7 @@
 
 <h3>Quick Demo</h3><a id="2"></a>
 
-![demo_gif](https://github.com/Prasad14-hub/Car_Price_Prediction/blob/main/demo_gif)
+![demo_gif](https://github.com/Prasad14-hub/Car_Price_Prediction/blob/main/demo_gif.gif)
 
 <br><p>We can predict Car Selling Price by filling the data over UI and after that prediction will be displayed over UI.</p>
 
